@@ -1,6 +1,6 @@
 # NLP-MSc-Portfolio
 
-This repository contains the assignments I completed during my Master’s-level **Natural Language Processing** course. 
+This repository contains the assignments I completed during my Master’s-level **Natural Language Processing** course at VU Amsterdam. 
 
 ## Purpose
 
