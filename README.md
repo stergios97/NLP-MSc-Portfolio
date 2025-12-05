@@ -1,2 +1,7 @@
-# nlp-assignments
-This repository showcases a series of assignments completed as part of the "Natural Language Processing" course during my master's program.
+# NLP-MSc-Portfolio
+
+This repository contains the assignments I completed during my Master’s-level **Natural Language Processing** course. 
+
+## Purpose
+
+It showcases the practical skills and projects I developed throughout the course.
